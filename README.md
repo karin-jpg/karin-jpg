@@ -5,7 +5,7 @@
 
 ⚜️ I'm a Fullstack Developer in [@DNC group](https://dnc.group) and sixth period student of Computer Science at [@unifesp](https://www.unifesp.br/).
 
-🚀 Interested in PHP, Javascript, Lumen and SQL.
+🚀 Interested in PHP, Javascript, and SQL.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karin-jpg&count_private=true&show_icons=true&hide=issues,contribs,stars&theme=radical)](https://github.com/karin-jpg)
 
