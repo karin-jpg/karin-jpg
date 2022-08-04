@@ -11,5 +11,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karin-jpg&layout=compact&theme=radical)](https://github.com/karin-jpg)
 
-![Snake animation](https://github.com/karin-jpg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/karin-jpg/karin-jpg/blob/output/github-contribution-grid-snake.svg)
  
