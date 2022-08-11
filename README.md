@@ -5,8 +5,6 @@
 
 ⚜️ I'm a Fullstack Developer in [@Inevent](https://inevent.com) and sixth period student of Computer Science at [@unifesp](https://www.unifesp.br/).
 
-🚀 Interested in PHP, Javascript and SQL.
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karin-jpg&count_private=true&show_icons=true&hide=issues,contribs,stars&theme=radical)](https://github.com/karin-jpg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karin-jpg&layout=compact&theme=radical)](https://github.com/karin-jpg)
